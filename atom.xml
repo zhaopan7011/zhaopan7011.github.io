@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yiai520.top/"/>
-  <updated>2019-12-23T08:59:55.000Z</updated>
+  <updated>2020-01-03T08:22:08.000Z</updated>
   <id>http://www.yiai520.top/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+NexT博客搭建相册功能2</title>
+    <link href="http://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD2/"/>
+    <id>http://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD2/</id>
+    <published>2020-01-03T08:22:08.000Z</published>
+    <updated>2020-01-03T08:22:08.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Jan 03 2020 16:30:26 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;按照&lt;a href=&quot;https://www.jianshu.com/p/52c807f962e6&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo+NexT博客搭建相册功能（一）&lt;/a&gt;搭建好相册库&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客搭建" scheme="http://www.yiai520.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="博客相册" scheme="http://www.yiai520.top/tags/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%86%8C/"/>
+    
+      <category term="Hexo+NexT" scheme="http://www.yiai520.top/tags/Hexo-NexT/"/>
+    
+      <category term="图片存储" scheme="http://www.yiai520.top/tags/%E5%9B%BE%E7%89%87%E5%AD%98%E5%82%A8/"/>
+    
+      <category term="图片浏览" scheme="http://www.yiai520.top/tags/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88/"/>
+    
+      <category term="PHOTOSWIPE" scheme="http://www.yiai520.top/tags/PHOTOSWIPE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+NexT博客搭建相册功能1</title>
+    <link href="http://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD1/"/>
+    <id>http://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD1/</id>
+    <published>2020-01-03T08:17:47.000Z</published>
+    <updated>2020-01-03T08:17:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Jan 03 2020 16:24:49 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;实现原理&quot;&gt;&lt;a href=&quot;#实现原理&quot; class=&quot;headerlink&quot; title=&quot;实现原理&quot;&gt;&lt;/a&gt;实现原理&lt;/h2&gt;&lt;p&gt;1、使用&lt;code&gt;github&lt;/code&gt;作为图床（也可以使用七牛和阿里的存储作为图床）&lt;br&gt;&lt;em&gt;使用github有时候可能图片显示不出来 建议使用腾讯云&lt;/em&gt;&lt;br&gt;2、使用脚本在source目录中data.json的文件，用来保存提交到&lt;code&gt;github&lt;/code&gt;上面图片的名字和路径url等&lt;br&gt;3、读取json中的内容在博客中展示图片&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客搭建" scheme="http://www.yiai520.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="博客相册" scheme="http://www.yiai520.top/tags/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%86%8C/"/>
+    
+      <category term="Hexo+NexT" scheme="http://www.yiai520.top/tags/Hexo-NexT/"/>
+    
+      <category term="图片存储" scheme="http://www.yiai520.top/tags/%E5%9B%BE%E7%89%87%E5%AD%98%E5%82%A8/"/>
+    
+      <category term="python脚本" scheme="http://www.yiai520.top/tags/python%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>初始iOS</title>
