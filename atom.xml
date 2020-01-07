@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yiai520.top/"/>
-  <updated>2020-01-07T02:03:27.000Z</updated>
+  <updated>2020-01-07T08:27:52.000Z</updated>
   <id>http://www.yiai520.top/</id>
   
   <author>
@@ -17,6 +17,134 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mac终端常用命令</title>
+    <link href="http://www.yiai520.top/2020/01/07/Mac%E7%BB%88%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://www.yiai520.top/2020/01/07/Mac%E7%BB%88%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2020-01-07T08:27:52.000Z</published>
+    <updated>2020-01-07T08:27:52.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;code&gt;cd /Users/yishuihan/Desktop&lt;/code&gt;&lt;/p&gt;&lt;h2 id=&quot;cd-文件路径-切换到某个路径下&quot;&gt;&lt;a href=&quot;#cd-文件路径-切换到某个路径下&quot; class=&quot;headerlink&quot; title=&quot;cd 文件路径 切换到某个路径下&quot;&gt;&lt;/a&gt;cd 文件路径 切换到某个路径下&lt;/h2&gt;
+    
+    </summary>
+    
+    
+      <category term="其他" scheme="http://www.yiai520.top/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="Mac" scheme="http://www.yiai520.top/tags/Mac/"/>
+    
+      <category term="终端命令" scheme="http://www.yiai520.top/tags/%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础（五）</title>
+    <link href="http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%94%EF%BC%89/"/>
+    <id>http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%94%EF%BC%89/</id>
+    <published>2020-01-07T07:56:44.000Z</published>
+    <updated>2020-01-07T07:56:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;strong&gt;const char 🌟 之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;figure class=&quot;highlight routeros&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;const char *p;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;char const *pp;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;char * const&lt;span class=&quot;built_in&quot;&gt; ppp &lt;/span&gt;= nullptr;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://www.yiai520.top/categories/C/"/>
+    
+    
+      <category term="C++基础" scheme="http://www.yiai520.top/tags/C-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础（四）</title>
+    <link href="http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+    <id>http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E5%9B%9B%EF%BC%89/</id>
+    <published>2020-01-07T07:55:59.000Z</published>
+    <updated>2020-01-07T07:55:59.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;strong&gt;函数重载&lt;/strong&gt;&lt;br&gt;函数不以返回值来区分重载函数&lt;br&gt;函数不以参数名来区分重载函数&lt;br&gt;使用重载函数的时候不要引起二义性&lt;br&gt;结构函数也可以重载&lt;br&gt;函数重载又叫编译时多态&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://www.yiai520.top/categories/C/"/>
+    
+    
+      <category term="C++基础" scheme="http://www.yiai520.top/tags/C-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础（三）</title>
+    <link href="http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%89%EF%BC%89/</id>
+    <published>2020-01-07T07:54:57.000Z</published>
+    <updated>2020-01-07T07:54:57.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;strong&gt;goto语句&lt;/strong&gt;&lt;br&gt;goto语句不常用，主要是跳转到某个标签。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://www.yiai520.top/categories/C/"/>
+    
+    
+      <category term="C++基础" scheme="http://www.yiai520.top/tags/C-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础（二）</title>
+    <link href="http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
+    <published>2020-01-07T07:54:21.000Z</published>
+    <updated>2020-01-07T07:54:21.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;strong&gt;常量const&lt;/strong&gt;&lt;br&gt;常量是不能被修改的&lt;br&gt;常量一般使用全大写进行声明是一个很好的习惯&lt;br&gt;不能是保留单词&lt;br&gt;多个单词可以用下划线进行链接&lt;br&gt;要见名知意&lt;br&gt;&lt;code&gt;const int ANGER = 30;&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://www.yiai520.top/categories/C/"/>
+    
+    
+      <category term="C++基础" scheme="http://www.yiai520.top/tags/C-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++基础（一）</title>
+    <link href="http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://www.yiai520.top/2020/01/07/C-%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2020-01-07T07:52:23.000Z</published>
+    <updated>2020-01-07T07:52:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;strong&gt;输入输出&lt;/strong&gt;&lt;/p&gt;&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;std&lt;/span&gt;::&lt;span class=&quot;built_in&quot;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&quot;string&quot;&gt;&quot;Hello, World!&quot;&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&quot;built_in&quot;&gt;endl&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;int&lt;/span&gt; x;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;std&lt;/span&gt;::&lt;span class=&quot;built_in&quot;&gt;cout&lt;/span&gt; &amp;lt;&amp;lt; &lt;span class=&quot;string&quot;&gt;&quot;输入x的值：&quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;std&lt;/span&gt;::&lt;span class=&quot;built_in&quot;&gt;cin&lt;/span&gt; &amp;gt;&amp;gt; x;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://www.yiai520.top/categories/C/"/>
+    
+    
+      <category term="C++基础" scheme="http://www.yiai520.top/tags/C-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>无论您多成功，康宝莱马克休斯成功语录都值得看</title>
     <link href="http://www.yiai520.top/2020/01/07/%E5%BA%B7%E5%AE%9D%E8%8E%B1%E9%A9%AC%E5%85%8B%E4%BC%91%E6%96%AF%E8%AF%AD/"/>
     <id>http://www.yiai520.top/2020/01/07/%E5%BA%B7%E5%AE%9D%E8%8E%B1%E9%A9%AC%E5%85%8B%E4%BC%91%E6%96%AF%E8%AF%AD/</id>
@@ -25,7 +153,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jan 07 2020 10:12:52 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;1-你必须用来自心底的爱来对待和影响他人。&quot;&gt;&lt;a href=&quot;#1-你必须用来自心底的爱来对待和影响他人。&quot; class=&quot;headerlink&quot; title=&quot;1 你必须用来自心底的爱来对待和影响他人。&quot;&gt;&lt;/a&gt;1 你必须用来自心底的爱来对待和影响他人。&lt;/h3&gt;&lt;h3 id=&quot;2-你的成功，你一生的高度，取决于你的想象力和敬业程度&quot;&gt;&lt;a href=&quot;#2-你的成功，你一生的高度，取决于你的想象力和敬业程度&quot; class=&quot;headerlink&quot; title=&quot;2 你的成功，你一生的高度，取决于你的想象力和敬业程度&quot;&gt;&lt;/a&gt;2 你的成功，你一生的高度，取决于你的想象力和敬业程度&lt;/h3&gt;&lt;h3 id=&quot;3-想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot;&gt;&lt;a href=&quot;#3-想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot; class=&quot;headerlink&quot; title=&quot;3 想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot;&gt;&lt;/a&gt;3 想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&lt;/h3&gt;
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;1-你必须用来自心底的爱来对待和影响他人。&quot;&gt;&lt;a href=&quot;#1-你必须用来自心底的爱来对待和影响他人。&quot; class=&quot;headerlink&quot; title=&quot;1 你必须用来自心底的爱来对待和影响他人。&quot;&gt;&lt;/a&gt;1 你必须用来自心底的爱来对待和影响他人。&lt;/h3&gt;&lt;h3 id=&quot;2-你的成功，你一生的高度，取决于你的想象力和敬业程度&quot;&gt;&lt;a href=&quot;#2-你的成功，你一生的高度，取决于你的想象力和敬业程度&quot; class=&quot;headerlink&quot; title=&quot;2 你的成功，你一生的高度，取决于你的想象力和敬业程度&quot;&gt;&lt;/a&gt;2 你的成功，你一生的高度，取决于你的想象力和敬业程度&lt;/h3&gt;&lt;h3 id=&quot;3-想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot;&gt;&lt;a href=&quot;#3-想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot; class=&quot;headerlink&quot; title=&quot;3 想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&quot;&gt;&lt;/a&gt;3 想要成功，必先端正态度，财富随之而来。想要成功，必先树立信念，财富随之而来。&lt;/h3&gt;
     
     </summary>
     
@@ -50,7 +178,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Jan 03 2020 16:34:35 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;按照&lt;a href=&quot;https://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD1/&quot;&gt;Hexo+NexT博客搭建相册功能（一）&lt;/a&gt;搭建好相册库&lt;/p&gt;
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;按照&lt;a href=&quot;https://www.yiai520.top/2020/01/03/Hexo-NexT%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD1/&quot;&gt;Hexo+NexT博客搭建相册功能（一）&lt;/a&gt;搭建好相册库&lt;/p&gt;
     
     </summary>
     
@@ -79,7 +207,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jan 07 2020 10:09:24 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;实现原理&quot;&gt;&lt;a href=&quot;#实现原理&quot; class=&quot;headerlink&quot; title=&quot;实现原理&quot;&gt;&lt;/a&gt;实现原理&lt;/h2&gt;&lt;p&gt;1、使用&lt;code&gt;github&lt;/code&gt;作为图床（也可以使用七牛和阿里的存储作为图床）&lt;br&gt;&lt;em&gt;使用github有时候可能图片显示不出来 建议使用腾讯云&lt;/em&gt;&lt;br&gt;2、使用脚本在source目录中data.json的文件，用来保存提交到&lt;code&gt;github&lt;/code&gt;上面图片的名字和路径url等&lt;br&gt;3、读取json中的内容在博客中展示图片&lt;/p&gt;
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;实现原理&quot;&gt;&lt;a href=&quot;#实现原理&quot; class=&quot;headerlink&quot; title=&quot;实现原理&quot;&gt;&lt;/a&gt;实现原理&lt;/h2&gt;&lt;p&gt;1、使用&lt;code&gt;github&lt;/code&gt;作为图床（也可以使用七牛和阿里的存储作为图床）&lt;br&gt;&lt;em&gt;使用github有时候可能图片显示不出来 建议使用腾讯云&lt;/em&gt;&lt;br&gt;2、使用脚本在source目录中data.json的文件，用来保存提交到&lt;code&gt;github&lt;/code&gt;上面图片的名字和路径url等&lt;br&gt;3、读取json中的内容在博客中展示图片&lt;/p&gt;
     
     </summary>
     
@@ -106,7 +234,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Jan 03 2020 16:34:35 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;!-- build time:Tue Jan 07 2020 16:29:38 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
